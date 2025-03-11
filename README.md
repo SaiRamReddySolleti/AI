@@ -1,2 +1,2 @@
 # AI
-This Repo is a  comprehensive introduction to artificial intelligence,
+This Repo is a  comprehensive introduction to artificial intelligence..
